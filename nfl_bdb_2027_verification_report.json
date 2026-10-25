@@ -1,0 +1,11 @@
+{
+  "competition": "Kaggle \u2014 NFL Big Data Bowl 2027",
+  "competition_url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
+  "deadline": "2027-01-06T23:59:00Z",
+  "prize_pool_cash": "$100,000 USD Cash ($45,000 Open Track + $45,000 University Track + $10,000 Grand Prize)",
+  "notebook": "NFL_BDB_2027_PhaseSpace_Kinematics.ipynb",
+  "notebook_size_bytes": 38289,
+  "analytics_engine": "nfl_combine_kinematics_analytics.py",
+  "verification_status": "PASSED_ALL_PHASE_SPACE_KINEMATICS_AND_NOTEBOOK_CHECKS",
+  "sha256": "622df195724783c91f25a57ff410d5c1346de61e076b2d7f613e304ece4e8609"
+}
